@@ -14,8 +14,6 @@ Welcome to **VibIN** - the ultimate social media platform designed to connect us
    - [Installation](#installation)
    - [Running the Application](#running-the-application)
 4. [Contributing](#contributing)
-5. [License](#license)
-6. [Contact](#contact)
 
 ## Key Features
 
